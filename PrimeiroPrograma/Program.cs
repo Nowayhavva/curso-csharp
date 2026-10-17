@@ -1,2 +1,2 @@
 Console.WriteLine("Vitor!");
-Console.Writeline("curso");
+Console.WriteLine("curso");
